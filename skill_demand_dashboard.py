@@ -3,9 +3,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
-import geopandas as gpd
-import censusdata
-import pydeck as pdk
 
 sns.set_theme(style="whitegrid")
 st.set_page_config(layout="wide")
